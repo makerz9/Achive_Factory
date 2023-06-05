@@ -1,0 +1,9 @@
+
+
+
+1. 소문자 transform 는 하이어라키에있는거 (나 컨트롤)
+
+대문자 transform 는 다른 오브젝트의 컨트롤 해야할때
+
+
+2. transform.Translate -> Translate 중첩됨 (내꺼에 포지션을 계속 더해줌)
